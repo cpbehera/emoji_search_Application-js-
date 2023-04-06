@@ -21,7 +21,7 @@ function searchEmoji() {
             `;
         }
     })
-    console.log(tagsArray);
+    // console.log(tagsArray);
 }
 
 
